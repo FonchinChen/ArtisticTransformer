@@ -1,4 +1,4 @@
-# ArtisticTransformer
+# Artistic Transformer
 Perform artistic transformation on a given image using multimodal LLMs
 
 ## Live demo as an [OpenAI GPT](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer)
