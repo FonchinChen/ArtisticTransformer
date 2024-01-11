@@ -81,4 +81,14 @@ It is also not like the typical style transfer tools that change the visual styl
     <td><img src="images/long_hair_lady_1.png" style="width:300px" alt=""></td>
     <td>Paper collage</td>
   </tr>
+  <tr>
+    <td><img src="images/winter0.jpg.jpg" style="width:300px" alt=""></td>
+    <td><img src="images/winter8.png" style="width:300px" alt=""></td>
+    <td>Milk sculpture</td>
+  </tr>
+  <tr>
+    <td><img src="images/girl0.png" style="width:300px" alt=""></td>
+    <td><img src="images/girl6.png" style="width:300px" alt=""></td>
+    <td>Glass sculpture</td>
+  </tr>
 </table>
