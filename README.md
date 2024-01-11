@@ -76,7 +76,7 @@ It is also not like the typical style transfer tools that change the visual styl
 
 <table>
   <tr>
-    <td>Given Image</td>
+    <td>Original Image</td>
     <td>Transformed image</td>
     <td>Effect applied</td>
   </tr>
