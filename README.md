@@ -18,6 +18,8 @@ The OpenAI GPT model is used to find detailed descriptions from the given image,
 * Milk sculpture. 
 
 ## What this is not
-
+The custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face may not resemble the original.
+It is also not like the typical style transfer tools that change the visual style of a give image, since many aspects of the original image are re-imagined by AI. 
 
 ## Gallery
+
