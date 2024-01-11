@@ -22,7 +22,7 @@ The OpenAI GPT model is used to find detailed descriptions from the given image,
 This custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face may not resemble the original.
 It is also not like the typical style transfer tools that change the visual style of a give image, since many aspects of the original image are re-imagined by AI even if its essence are preserved.
 
-## Gallery
+## Effect demonstration
 <table>
   <tr>
     <td>Image</td>
@@ -65,6 +65,19 @@ It is also not like the typical style transfer tools that change the visual styl
   <tr>
     <td><img src="images/dino8.png" style="width:300px" alt="">Milk sculpture</td>
     <td>Effect: Milk sculpture</td>
+  </tr>  
+</table>
+
+## Gallery
+
+<table>
+  <tr>
+    <td>Given Image</td>
+    <td>Transformed image</td>
+    <td>Effect applied</td>
   </tr>
-  
+  <tr>
+    <td><img src="images/dino0.png" style="width:300px" alt="user image"></td>
+    <td></td>
+  </tr>
 </table>
