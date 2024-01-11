@@ -6,7 +6,11 @@ Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer)
 <br>Please note as of January 2024, OpenAI still requires that you must have a subscription to the GPT Plus in order to access any GPT in their store. 
 
 ## How it works
-The OpenAI GPT model is used to find detailed descriptions from the given image, then the OpenAI DALL-E is used to generate new image per user's directions.
+This Custom GPT use a given image as the inspiration for creating a new image, using the following steps:
+
+* A detailed textual description is extracted from the given image using OpenAI's multimodal GPT-4 model
+* User selects the desired effect/style from a give list
+* The extractd text and the given style are combined and given to OpenAI's DALL-E to generate an image.
 
 ## Supported artistic styles
 * Paper diorama collage
