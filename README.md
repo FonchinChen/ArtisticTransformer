@@ -30,7 +30,7 @@ It is also not like the typical style transfer tools that change the visual styl
   </tr>
   <tr>
     <td>
-      <img src="images/dino0.png" style="width:300px" alt="user image">
+      <img src="images/dino0.png" style="width:300px" alt="Given image">
     </td>
     <td>User Image</td>
   </tr>
