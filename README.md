@@ -22,4 +22,21 @@ The custom GPT is not meant for use as a beauty filter for human portraits, sinc
 It is also not like the typical style transfer tools that change the visual style of a give image, since many aspects of the original image are re-imagined by AI. 
 
 ## Gallery
-
+<table>
+  <tr>
+    <td>Image</td>
+    <td>Notes</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/dino0.png" style="width:300px" alt="Description of Image 1">
+    </td>
+    <td>User Image</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/dino1.png" style="width:300px" alt="Description of Image 1">
+    </td>
+    <td>Effect: diorama paper collage</td>
+  </tr>
+</table>
