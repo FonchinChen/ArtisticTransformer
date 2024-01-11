@@ -18,8 +18,8 @@ The OpenAI GPT model is used to find detailed descriptions from the given image,
 * Milk sculpture. 
 
 ## What this is not
-The custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face may not resemble the original.
-It is also not like the typical style transfer tools that change the visual style of a give image, since many aspects of the original image are re-imagined by AI. 
+This custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face may not resemble the original.
+It is also not like the typical style transfer tools that change the visual style of a give image, since many aspects of the original image are re-imagined by AI even if its essence are preserved.
 
 ## Gallery
 <table>
@@ -29,14 +29,41 @@ It is also not like the typical style transfer tools that change the visual styl
   </tr>
   <tr>
     <td>
-      <img src="images/dino0.png" style="width:300px" alt="Description of Image 1">
+      <img src="images/dino0.png" style="width:300px" alt="user image">
     </td>
     <td>User Image</td>
   </tr>
   <tr>
-    <td>
-      <img src="images/dino1.png" style="width:300px" alt="Description of Image 1">
-    </td>
+    <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
     <td>Effect: diorama paper collage</td>
   </tr>
+  <tr>
+    <td><img src="images/dino2_anime.png" style="width:300px" alt="">Japanese anime</td>
+    <td>Effect: Japanese anime</td>
+  </tr>
+  <tr>
+  <tr>
+    <td><img src="images/dino3_popart.png" style="width:300px" alt="">Pop art comics</td>
+    <td>Effect: Pop art comics</td>
+  </tr>
+    <td><img src="images/dino4.png" style="width:300px" alt="">Simpsons</td>
+    <td>Effect: Simpsons</td>
+  </tr>
+  <tr>
+    <td><img src="images/dino5.png" style="width:300px" alt="">Woodcut</td>
+    <td>Effect: Woodcut</td>
+  </tr>
+  <tr>
+    <td><img src="images/dino6.png" style="width:300px" alt="">Glass sculpture</td>
+    <td>Effect: Glass sculpture</td>
+  </tr>
+  <tr>
+    <td><img src="images/dino7.png" style="width:300px" alt="">Fractal sculpture</td>
+    <td>Effect: Fractal sculpture</td>
+  </tr>
+  <tr>
+    <td><img src="images/dino8.png" style="width:300px" alt="">Milk sculpture</td>
+    <td>Effect: Milk sculpture</td>
+  </tr>
+  
 </table>
