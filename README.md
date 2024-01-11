@@ -77,7 +77,8 @@ It is also not like the typical style transfer tools that change the visual styl
     <td>Effect applied</td>
   </tr>
   <tr>
-    <td><img src="images/dino0.png" style="width:300px" alt="user image"></td>
-    <td></td>
+    <td><img src="images/long_hair_lady.jpg" style="width:300px" alt=""></td>
+    <td><img src="images/long_hair_lady_1.jpg" style="width:300px" alt=""></td>
+    <td>Paper collage</td>
   </tr>
 </table>
