@@ -1,9 +1,9 @@
 # Artistic Transformer
 Perform artistic transformation on a given image using multimodal LLMs
 
-## Live demo as an [OpenAI GPT](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer) in OpenAI's GPT Store
+## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
-Please note as of January 2024, OpenAI still requires that you must have a subscription to the GPT Plus in order to access any GPT in their store. 
+<br>Please note as of January 2024, OpenAI still requires that you must have a subscription to the GPT Plus in order to access any GPT in their store. 
 
 ## How it works
 The OpenAI GPT model is used to find detailed descriptions from the given image, then the OpenAI DALL-E is used to generate new image per user's directions.
