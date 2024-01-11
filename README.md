@@ -91,4 +91,9 @@ It is also not like the typical style transfer tools that change the visual styl
     <td><img src="images/girl6.png" style="width:300px" alt=""></td>
     <td>Glass sculpture</td>
   </tr>
+  <tr>
+    <td><img src="images/fish0.png" style="width:300px" alt=""></td>
+    <td><img src="images/fish7.png" style="width:300px" alt=""></td>
+    <td>Factal sculpture</td>
+  </tr>
 </table>
