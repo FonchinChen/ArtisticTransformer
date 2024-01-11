@@ -82,7 +82,7 @@ It is also not like the typical style transfer tools that change the visual styl
     <td>Paper collage</td>
   </tr>
   <tr>
-    <td><img src="images/winter0.jpg.jpg" style="width:300px" alt=""></td>
+    <td><img src="images/winter0.jpg" style="width:300px" alt=""></td>
     <td><img src="images/winter8.png" style="width:300px" alt=""></td>
     <td>Milk sculpture</td>
   </tr>
