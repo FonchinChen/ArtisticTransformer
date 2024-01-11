@@ -39,31 +39,31 @@ It is also not like the typical style transfer tools that change the visual styl
     <td>Effect: diorama paper collage</td>
   </tr>
   <tr>
-    <td><img src="images/dino2_anime.png" style="width:300px" alt="">Japanese anime</td>
+    <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"></td>
     <td>Effect: Japanese anime</td>
   </tr>
   <tr>
   <tr>
-    <td><img src="images/dino3_popart.png" style="width:300px" alt="">Pop art comics</td>
+    <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"></td>
     <td>Effect: Pop art comics</td>
   </tr>
-    <td><img src="images/dino4.png" style="width:300px" alt="">Simpsons</td>
+    <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"></td>
     <td>Effect: Simpsons</td>
   </tr>
   <tr>
-    <td><img src="images/dino5.png" style="width:300px" alt="">Woodcut</td>
+    <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"></td>
     <td>Effect: Woodcut</td>
   </tr>
   <tr>
-    <td><img src="images/dino6.png" style="width:300px" alt="">Glass sculpture</td>
+    <td><img src="images/dino6.png" style="width:300px" alt="Glass sculpture"></td>
     <td>Effect: Glass sculpture</td>
   </tr>
   <tr>
-    <td><img src="images/dino7.png" style="width:300px" alt="">Fractal sculpture</td>
+    <td><img src="images/dino7.png" style="width:300px" alt="Fractal sculpture"></td>
     <td>Effect: Fractal sculpture</td>
   </tr>
   <tr>
-    <td><img src="images/dino8.png" style="width:300px" alt="">Milk sculpture</td>
+    <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"></td>
     <td>Effect: Milk sculpture</td>
   </tr>  
 </table>
