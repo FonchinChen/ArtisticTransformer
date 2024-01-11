@@ -30,9 +30,9 @@ It is also not like the typical style transfer tools that change the visual styl
   </tr>
   <tr>
     <td>
-      <img src="images/dino0.png" style="width:300px" alt="Given image">
+      <img src="images/dino0.png" style="width:300px" alt="Original image">
     </td>
-    <td>User Image</td>
+    <td>Original Image</td>
   </tr>
   <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
@@ -94,6 +94,6 @@ It is also not like the typical style transfer tools that change the visual styl
   <tr>
     <td><img src="images/fish0.png" style="width:300px" alt=""></td>
     <td><img src="images/fish7.png" style="width:300px" alt=""></td>
-    <td>Factal sculpture</td>
+    <td>Fractal sculpture</td>
   </tr>
 </table>
