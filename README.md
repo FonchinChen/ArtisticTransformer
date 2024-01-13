@@ -42,7 +42,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   </tr>
   <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
-    <td>Effect: diorama paper collage</td>
+    <td>Effect: Paper collage</td>
   </tr>
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"></td>
@@ -66,7 +66,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   </tr>
   <tr>
     <td><img src="images/dino7.png" style="width:300px" alt="Fractal sculpture"></td>
-    <td>Effect: Fractal sculpture</td>
+    <td>Effect: Biomechanical sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"></td>
