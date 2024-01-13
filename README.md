@@ -59,7 +59,7 @@ It is also not like the typical style transfer tools that change the visual styl
     <td>Effect: Woodcut</td>
   </tr>
   <tr>
-    <td><img src="images/dino6.png" style="width:300px" alt="Glass sculpture"></td>
+    <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"></td>
     <td>Effect: Glass sculpture</td>
   </tr>
   <tr>
