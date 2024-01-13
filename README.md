@@ -1,8 +1,8 @@
 # Artistic Transformer
 Perform artistic transformation on a given image using multimodal LLMs
 
-## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer) in OpenAI's GPT Store
-Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-artistic-transformer) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
+## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
+Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
 <br>Please note as of January 2024, OpenAI still requires that you must have a subscription to the GPT Plus in order to access any GPT in their store. 
 
 ## How it works
