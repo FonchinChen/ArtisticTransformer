@@ -3,28 +3,30 @@ Perform artistic transformation on a given image using multimodal LLMs
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
-<br>Please note as of January 2024, OpenAI still requires that you must have a subscription to the GPT Plus in order to access any GPT in their store. 
+<br>Please note as of January 2024, OpenAI still requires that you must have a GPT Plus subscription in order to access any GPT in their store. 
 
 ## How it works
-This Custom GPT use a given image as the inspiration for creating a new image, using the following steps:
+This Custom GPT uses a given image as the inspiration for creating a new image, with the following steps:
 
+* User provides an image
 * A detailed textual description is extracted from the given image using OpenAI's multimodal GPT-4 model
-* User selects the desired effect/style from a give list
+* User selects the desired effect/style from a given list
 * The extractd text and the given style are combined and given to OpenAI's DALL-E to generate an image.
 
+This approach allows user to have control of the image generation process without having to learn prompt engineering, while still able to produce exciting images.
+
 ## Supported artistic styles
-* Paper diorama collage
+* Paper collage
 * Japanese anime
 * Pop art comic
 * Simpsons
-* Woodcutting template
+* Woodcut
 * Glass sculpture
-* Fractal sculpture
-* Milk sculpture. 
+* Biomechanical sculpture
+* Milk sculpture
 
 ## What this is not
-This custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face may not resemble the original.
-It is also not like the typical style transfer tools that change the visual style of a give image, since many aspects of the original image are re-imagined by AI even if its essence are preserved.
+This custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face most likely won't resemble the original.
 
 ## Effect demonstration
 <table>
