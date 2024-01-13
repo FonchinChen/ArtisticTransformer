@@ -1,4 +1,4 @@
-# Artistic Transformer
+# Creative Imaginator
 Perform artistic transformation on a given image using multimodal LLMs
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
