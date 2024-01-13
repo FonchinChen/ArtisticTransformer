@@ -26,7 +26,7 @@ This approach allows user to have control of the image generation process withou
 * Milk sculpture
 
 ## What this is not
-This custom GPT is not meant for use as a beauty filter for human portraits, since the transformed face most likely won't resemble the original.
+This custom GPT is not meant for use as a beauty filter of style changer for human portraits, since the transformed face may not resemble the original.
 
 ## Effect demonstration
 <table>
