@@ -147,7 +147,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 
 <table>
   <tr>
-    <td><img src="images/long_hair_lady.jpg" style="width:300px" alt=""></td>
+    <td><img src="images/long_hair_lady_a.jpg" style="width:300px" alt=""></td>
     <td><img src="images/long_hair_lady_1.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/winter0.jpg" style="width:300px" alt=""></td>
+    <td><img src="images/winter0a.jpg" style="width:300px" alt=""></td>
     <td><img src="images/winter8.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/girl0.png" style="width:300px" alt=""></td>
+    <td><img src="images/girl0a.png" style="width:300px" alt=""></td>
     <td><img src="images/girl6.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/sunflower0.png" style="width:300px" alt=""></td>
+    <td><img src="images/sunflower0a.png" style="width:300px" alt=""></td>
     <td><img src="images/sunflower6.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/cat0.png" style="width:300px" alt=""></td>
+    <td><img src="images/cat0a.png" style="width:300px" alt=""></td>
     <td><img src="images/cat1.png" style="width:300px" alt=""></td>
   </tr> 
   <tr>
@@ -219,7 +219,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/fish0.png" style="width:300px" alt=""></td>
+    <td><img src="images/fish0a.png" style="width:300px" alt=""></td>
     <td><img src="images/fish6-3.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
@@ -231,7 +231,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/girl0.png" style="width:300px" alt=""></td>
+    <td><img src="images/girl0a.png" style="width:300px" alt=""></td>
     <td><img src="images/girl6-5.png" style="width:300px" alt=""></td>
   </tr> 
   <tr>
