@@ -120,8 +120,8 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Transformed: Paper collage </td>
   </tr>  
   <tr>
-    <td>.</td>
-    <td>.</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/winter0.jpg" style="width:300px" alt=""></td>
