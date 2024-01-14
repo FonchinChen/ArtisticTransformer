@@ -65,7 +65,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Effect: Glass sculpture</td>
   </tr>
   <tr>
-    <td><img src="images/dino7.png" style="width:300px" alt="Biomechanical sculpture"></td>
+    <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
     <td>Effect: Biomechanical sculpture</td>
   </tr>
   <tr>
@@ -106,6 +106,16 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td><img src="images/dino4.png" style="width:300px" alt=""></td>
     <td><img src="images/cutedino7.png" style="width:300px" alt=""></td>
     <td>Effect: Biomechanical sculpture</td>
+  </tr>  
+  <tr>
+    <td><img src="images/cat0.png" style="width:300px" alt=""></td>
+    <td><img src="images/cat1.png" style="width:300px" alt=""></td>
+    <td>Effect: Paper collage</td>
+  </tr> 
+  <tr>
+    <td><img src="images/fish0.png" style="width:300px" alt=""></td>
+    <td><img src="images/fish6-3.png" style="width:300px" alt=""></td>
+    <td>Effect: Glass sculpture</td>
   </tr>  
   <tr>
     <td><img src="images/girl0.png" style="width:300px" alt=""></td>
