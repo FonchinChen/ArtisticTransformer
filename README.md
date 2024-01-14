@@ -31,8 +31,8 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 ## Effect demonstration
 <table>
   <tr>
-    <td>demo1</td>
-    <td>demo2</td>
+    <td>Demo-1</td>
+    <td>Demo-2</td>
   </tr>
   <tr>
     <td><img src="images/dino0.png" style="width:300px" alt="Original image"></td>
@@ -111,14 +111,12 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 
 <table>
   <tr>
-    <td>Original Image</td>
-    <td>Transformed image</td>
-    <td>Effect applied</td>
-  </tr>
-  <tr>
     <td><img src="images/long_hair_lady.jpg" style="width:300px" alt=""></td>
     <td><img src="images/long_hair_lady_1.png" style="width:300px" alt=""></td>
-    <td>Paper collage</td>
+  </tr>
+  <tr>
+    <td>Transformed image</td>
+    <td>Effect: Paper collage </td>
   </tr>
   <tr>
     <td><img src="images/winter0.jpg" style="width:300px" alt=""></td>
