@@ -52,7 +52,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   </tr>
   <tr>
     <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"></td>
-    td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"></td>
+    <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"></td>
     <td>Effect: Pop art comics</td>
   </tr>
     <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"></td>
