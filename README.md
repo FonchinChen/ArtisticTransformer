@@ -160,7 +160,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   </tr>
   <tr>
     <td><img src="images/fish0a.png" style="width:300px" alt=""><br>Original Image</td>
-    <td><img src="images/fish6-3a.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
+    <td><img src="images/fish6-5.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
   </tr>
   <tr>
     <td></td>
