@@ -31,13 +31,14 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 ## Effect demonstration
 <table>
   <tr>
-    <td>Image</td>
-    <td>Image</td>
-    <td>Notes</td>
+    <td>demo1</td>
+    <td>demo2</td>
   </tr>
   <tr>
     <td><img src="images/dino0.png" style="width:300px" alt="Original image"></td>
     <td><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"></td>
+  </tr>
+  <tr>
     <td>Original Image</td>
   </tr>
   <tr>
