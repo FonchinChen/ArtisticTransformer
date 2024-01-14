@@ -103,7 +103,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Biomechanical sculpture</td>
   </tr>
   <tr>
-    <td><img src="images/cutedino0.png" style="width:300px" alt=""></td>
+    <td><img src="images/dino4.png" style="width:300px" alt=""></td>
     <td><img src="images/cutedino7.png" style="width:300px" alt=""></td>
     <td>Effect: Biomechanical sculpture</td>
   </tr>  
