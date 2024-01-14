@@ -111,13 +111,9 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 
 <table>
   <tr>
-    <td><img src="images/long_hair_lady_a.jpg" style="width:300px" alt=""></td>
-    <td><img src="images/long_hair_lady_1.png" style="width:300px" alt=""></td>
-  </tr>
-  <tr>
-    <td>Original Image</td>
-    <td>Transformed: Paper collage </td>
-  </tr>  
+    <td><img src="images/long_hair_lady_a.jpg" style="width:300px" alt=""><br>Original Image</td>
+    <td><img src="images/long_hair_lady_1.png" style="width:300px" alt=""><br>Transformed: Paper collage</td>
+  </tr> 
   <tr>
     <td></td>
     <td></td>
