@@ -32,6 +32,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 <table>
   <tr>
     <td>Image</td>
+    <td>Image</td>
     <td>Notes</td>
   </tr>
   <tr>
