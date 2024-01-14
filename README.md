@@ -31,8 +31,8 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
 ## Effects demonstration
 <table style="border-collapse:unset;">
   <tr>
-    <td>Demo-1</td>
-    <td>Demo-2</td>
+    <td>DEMO-1</td>
+    <td>DEMO-2</td>
   </tr>
   <tr>
     <td></td>
