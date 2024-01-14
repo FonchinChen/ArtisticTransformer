@@ -155,6 +155,10 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td><img src="images/cat1.png" style="width:300px" alt=""></td>
   </tr> 
   <tr>
+    <td>Original Image</td>
+    <td>Transformed: Paper collage </td>
+  </tr>
+  <tr>
     <td><img src="images/fish0.png" style="width:300px" alt=""></td>
     <td><img src="images/fish6-3.png" style="width:300px" alt=""></td>
   </tr>
