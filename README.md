@@ -29,14 +29,14 @@ This approach allows user to have control of the image generation process withou
 This custom GPT is not meant for use as a beauty filter of style changer for human portraits, since the transformed face may not resemble the original.
 
 ## Effects demonstration
-<table>
+<table style="border-collapse:unset;">
   <tr>
     <td>Demo-1</td>
     <td>Demo-2</td>
   </tr>
   <tr>
-    <td>Original Image<br><img src="images/dino0.png" style="width:300px" alt="Original image"><br>Original Image</td>
-    <td>Original Image<br><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
+    <td><img src="images/dino0.png" style="width:300px" alt="Original image"></td>
+    <td><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"></td>
   </tr>
   <tr>
     <td style="border-top：none">Original Image</td>
