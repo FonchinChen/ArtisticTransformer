@@ -53,36 +53,57 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"></td>
     <td><img src="images/fairy2.png" style="width:300px" alt="Japanese anime"></td>
-    <td>Effect: Japanese anime</td>
+  </tr>
+  <tr>
+    <td>Japanese anime</td>
+    <td>Japanese anime</td>
   </tr>
   <tr>
     <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"></td>
     <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"></td>
-    <td>Effect: Pop art comics</td>
+  </tr>
+  <tr>
+    <td>Pop art comics</td>
+    <td>Pop art comics</td>
   </tr>
     <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"></td>
     <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons"></td>
-    <td>Effect: Simpsons</td>
+  </tr>
+  <tr>
+    <td>Simpsons</td>
+    <td>Simpsons</td>
   </tr>
   <tr>
     <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"></td>
     <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"></td>
-    <td>Effect: Woodcut</td>
+  </tr>
+  <tr>
+    <td>Woodcut</td>
+    <td>Woodcut</td>
   </tr>
   <tr>
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"></td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"></td>
-    <td>Effect: Glass sculpture</td>
+  </tr>
+  <tr>
+    <td>Glass sculpture</td>
+    <td>Glass sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
     <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
-    <td>Effect: Biomechanical sculpture</td>
+  </tr>
+  <tr>
+    <td>Biomechanical sculpture</td>
+    <td>Biomechanical sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"></td>
     <td><img src="images/fairy8.png" style="width:300px" alt="Milk sculpture"></td>
-    <td>Effect: Milk sculpture</td>
+  </tr>
+  <tr>
+    <td>Milk sculpture</td>
+    <td>Milk sculpture</td>
   </tr>
 </table>
 
