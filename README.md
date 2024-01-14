@@ -39,24 +39,16 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td style="border-bottom:none;"><img src="images/dino0a.png" style="width:300px" alt="Original image"><br>XXXX</td>
-    <td style="border-bottom:none;">XXXX<br><img src="images/fairy0a.jpeg" style="width:300px" alt="Original image"><br>XXXX</td>
-  </tr>
-  <tr>
-    <td style="color:red; border-top:none;">Original Image</td>
-    <td style="border-top:none;">Original Image</td>
+    <td style="border-bottom:none;"><img src="images/dino0a.png" style="width:300px" alt="Original image"><br>Original Image</td>
+    <td style="border-bottom:none;"><img src="images/fairy0a.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
-    <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"></td>
-  </tr>
-  <tr>
-    <td>Paper collage</td>
-    <td>Paper collage</td>
+    <td><img src="images/dino1.png" style="width:300px" alt="paper collage"><br>Paper collage</td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"><br>Paper collage</td>
   </tr>
   <tr>
     <td></td>
