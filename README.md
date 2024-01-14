@@ -35,8 +35,8 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Demo-2</td>
   </tr>
   <tr>
-    <td><img src="images/dino0.png" style="width:300px" alt="Original image"><br>Original Image</td>
-    <td><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
+    <td>Original Image<br><img src="images/dino0.png" style="width:300px" alt="Original image"><br>Original Image</td>
+    <td>Original Image<br><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
   </tr>
   <tr>
     <td>Original Image</td>
