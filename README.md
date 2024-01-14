@@ -63,47 +63,47 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics">Pop art comics</td>
-    <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics">Pop art comics</td>
+    <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"><br>Pop art comics</td>
+    <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"><br>Pop art comics</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
-    <td><img src="images/dino4.png" style="width:300px" alt="Simpsons">Simpsons</td>
-    <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons">Simpsons</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="images/dino5.png" style="width:300px" alt="Woodcut">Woodcut</td>
-    <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut">Woodcut</td>
+    <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"><br>Simpsons</td>
+    <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons"><br>Simpsons</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture">Glass sculpture</td>
-    <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture">Glass sculpture</td>
+    <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"><br>Woodcut</td>
+    <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"><br>Woodcut</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture">Biomechanical sculpture</td>
-    <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture">Biomechanical sculpture</td>
+    <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
+    <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture">Milk sculpture</td>
-    <td><img src="images/fairy8.png" style="width:300px" alt="Milk sculpture">Milk sculpture</td>
+    <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
+    <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"><br>Milk sculpture</td>
+    <td><img src="images/fairy8.png" style="width:300px" alt="Milk sculpture"><br>Milk sculpture</td>
   </tr>
 </table>
 
