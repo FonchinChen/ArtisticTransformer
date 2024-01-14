@@ -43,11 +43,12 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Original Image</td>
   </tr>
   <tr>
-  </tr>
-  <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
     <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"></td>
-    <td>Effect: Paper collage</td>
+  </tr>
+  <tr>
+    <td>Paper collage</td>
+    <td>Paper collage</td>
   </tr>
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"></td>
