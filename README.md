@@ -72,14 +72,6 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"></td>
     <td>Effect: Milk sculpture</td>
   </tr>
-  <tr>
-    <td><img src="images/cutedino7.png" style="width:300px" alt="Biomechanical sculpture"></td>
-    <td>Effect: Biomechanical sculpture</td>
-  </tr>  
-  <tr>
-    <td><img src="images/girl6-5.png" style="width:300px" alt="Glass sculpture"></td>
-    <td>Effect: Glass sculpture</td>
-  </tr>  
 </table>
 
 ## Gallery
@@ -108,6 +100,16 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   <tr>
     <td><img src="images/fish0.png" style="width:300px" alt=""></td>
     <td><img src="images/fish7.png" style="width:300px" alt=""></td>
-    <td>Fractal sculpture</td>
+    <td>Biomechanical sculpture</td>
   </tr>
+  <tr>
+    <td><img src="images/cutedino0.png" style="width:300px" alt=""></td>
+    <td><img src="images/cutedino7.png" style="width:300px" alt=""></td>
+    <td>Effect: Biomechanical sculpture</td>
+  </tr>  
+  <tr>
+    <td><img src="images/girl0.png" style="width:300px" alt=""></td>
+    <td><img src="images/girl6-5.png" style="width:300px" alt=""></td>
+    <td>Effect: Glass sculpture</td>
+  </tr>  
 </table>
