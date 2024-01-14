@@ -38,39 +38,48 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   <tr>
     <td>
       <img src="images/dino0.png" style="width:300px" alt="Original image">
+      <img src="images/fairy0.png" style="width:300px" alt="Original image">
     </td>
     <td>Original Image</td>
   </tr>
   <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"></td>
     <td>Effect: Paper collage</td>
   </tr>
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"></td>
+    <td><img src="images/fairy2_anime.png" style="width:300px" alt="Japanese anime"></td>
     <td>Effect: Japanese anime</td>
   </tr>
   <tr>
   <tr>
     <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"></td>
+    td><img src="images/fairy3_popart.png" style="width:300px" alt="Pop art comics"></td>
     <td>Effect: Pop art comics</td>
   </tr>
     <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"></td>
+    <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons"></td>
     <td>Effect: Simpsons</td>
   </tr>
   <tr>
     <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"></td>
+    <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"></td>
     <td>Effect: Woodcut</td>
   </tr>
   <tr>
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"></td>
+    <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"></td>
     <td>Effect: Glass sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
+    <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
     <td>Effect: Biomechanical sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"></td>
+    <td><img src="images/fairy8.png" style="width:300px" alt="Milk sculpture"></td>
     <td>Effect: Milk sculpture</td>
   </tr>
 </table>
