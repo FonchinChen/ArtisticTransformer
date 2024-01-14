@@ -35,6 +35,10 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Demo-2</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td style="border-bottom:none;"><img src="images/dino0.png" style="width:300px" alt="Original image"></td>
     <td style="border-bottom:none;"><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"></td>
   </tr>
@@ -42,7 +46,10 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td style="color:red; border-top:none;">Original Image</td>
     <td style="border-top:none;">Original Image</td>
   </tr>
-  <tr></tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="paper collage"></td>
     <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"></td>
@@ -50,6 +57,10 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
   <tr>
     <td>Paper collage</td>
     <td>Paper collage</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"></td>
@@ -60,6 +71,10 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Japanese anime</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"></td>
     <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"></td>
   </tr>
@@ -67,12 +82,20 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Pop art comics</td>
     <td>Pop art comics</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
     <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"></td>
     <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons"></td>
   </tr>
   <tr>
     <td>Simpsons</td>
     <td>Simpsons</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"></td>
@@ -83,6 +106,10 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Woodcut</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"></td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"></td>
   </tr>
@@ -91,12 +118,20 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Glass sculpture</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
     <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"></td>
   </tr>
   <tr>
     <td>Biomechanical sculpture</td>
     <td>Biomechanical sculpture</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"></td>
@@ -132,12 +167,20 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Transformed: Milk sculpture</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="images/girl0.png" style="width:300px" alt=""></td>
     <td><img src="images/girl6.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
     <td>Original Image</td>
     <td>Transformed: Glass sculpture</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/sunflower0.png" style="width:300px" alt=""></td>
@@ -148,12 +191,20 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Transformed: Glass sculpture</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="images/dino4.png" style="width:300px" alt=""></td>
     <td><img src="images/cutedino7.png" style="width:300px" alt=""></td>
   </tr> 
   <tr>
     <td>Original Image</td>
     <td>Transformed: Biomechanical sculpture</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/cat0.png" style="width:300px" alt=""></td>
@@ -164,12 +215,20 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Transformed: Paper collage </td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="images/fish0.png" style="width:300px" alt=""></td>
     <td><img src="images/fish6-3.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
     <td>Original Image</td>
     <td>Transformed: Glass sculpture</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="images/girl0.png" style="width:300px" alt=""></td>
