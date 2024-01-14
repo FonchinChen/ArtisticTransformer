@@ -115,42 +115,60 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td><img src="images/long_hair_lady_1.png" style="width:300px" alt=""></td>
   </tr>
   <tr>
-    <td>Transformed image</td>
-    <td>Effect: Paper collage </td>
+    <td>Original Image</td>
+    <td>Transformed: Paper collage </td>
   </tr>
   <tr>
     <td><img src="images/winter0.jpg" style="width:300px" alt=""></td>
     <td><img src="images/winter8.png" style="width:300px" alt=""></td>
-    <td>Milk sculpture</td>
+  </tr>
+  <tr>
+    <td>Original Image</td>
+    <td>Transformed: Milk sculpture</td>
   </tr>
   <tr>
     <td><img src="images/girl0.png" style="width:300px" alt=""></td>
     <td><img src="images/girl6.png" style="width:300px" alt=""></td>
-    <td>Glass sculpture</td>
+  </tr>
+  <tr>
+    <td>Original Image</td>
+    <td>Transformed: Glass sculpture</td>
   </tr>
   <tr>
     <td><img src="images/sunflower0.png" style="width:300px" alt=""></td>
     <td><img src="images/sunflower6.png" style="width:300px" alt=""></td>
-    <td>Glass sculpture</td>
+  </tr>
+  <tr>
+    <td>Original Image</td>
+    <td>Transformed: Glass sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino4.png" style="width:300px" alt=""></td>
     <td><img src="images/cutedino7.png" style="width:300px" alt=""></td>
-    <td>Effect: Biomechanical sculpture</td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>Original Image</td>
+    <td>Transformed: Biomechanical sculpture</td>
+  </tr>
   <tr>
     <td><img src="images/cat0.png" style="width:300px" alt=""></td>
     <td><img src="images/cat1.png" style="width:300px" alt=""></td>
-    <td>Effect: Paper collage</td>
   </tr> 
   <tr>
     <td><img src="images/fish0.png" style="width:300px" alt=""></td>
     <td><img src="images/fish6-3.png" style="width:300px" alt=""></td>
-    <td>Effect: Glass sculpture</td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>Original Image</td>
+    <td>Transformed: Glass sculpture</td>
+  </tr>
   <tr>
     <td><img src="images/girl0.png" style="width:300px" alt=""></td>
     <td><img src="images/girl6-5.png" style="width:300px" alt=""></td>
     <td>Effect: Glass sculpture</td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td>Original Image</td>
+    <td>Transformed: Glass sculpture</td>
+  </tr>
 </table>
