@@ -98,9 +98,9 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Glass sculpture</td>
   </tr>
   <tr>
-    <td><img src="images/fish0.png" style="width:300px" alt=""></td>
-    <td><img src="images/fish7.png" style="width:300px" alt=""></td>
-    <td>Biomechanical sculpture</td>
+    <td><img src="images/sunflower0.png" style="width:300px" alt=""></td>
+    <td><img src="images/subflower6.png" style="width:300px" alt=""></td>
+    <td>Glass sculpture</td>
   </tr>
   <tr>
     <td><img src="images/dino4.png" style="width:300px" alt=""></td>
