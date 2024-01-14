@@ -29,11 +29,6 @@ This approach allows user to have control of the image generation process withou
 This custom GPT is not meant for use as a beauty filter of style changer for human portraits, since the transformed face may not resemble the original.
 
 ## Effects demonstration
-<style>
-.caption1 {
-  border-top: none;
-}
-</style>
 <table>
   <tr>
     <td>Demo-1</td>
@@ -44,7 +39,7 @@ This custom GPT is not meant for use as a beauty filter of style changer for hum
     <td>Original Image<br><img src="images/fairy0.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
   </tr>
   <tr>
-    <td class=caption1>Original Image</td>
+    <td style="border-top：none">Original Image</td>
     <td class=caption1>Original Image</td>
   </tr>
   <tr>
