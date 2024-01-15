@@ -17,9 +17,9 @@ then if you enter additional text instruction "redo the image with calla lilies 
 It is worth noting that while many aspects of this image is different from the last one, such as compsition, posture, details in clothing, etc., much of the general style and character features are preserved.
 - **Style composition**. It is easy to combine multiple effects in order to achieve more complex transformation. For example, given the following start image:\
 ![Image](images/dino0.png)\
-we can acchieve this final result:\
+we can turn it into the following:\
 ![Image](images/cutedino7.png)\
-by first applying the Simpsons effect on the original to get this:
+This is achieved by first applying the Simpsons effect on the starting image to get this:
 ![Image](images/dino4.png)\
 then apply the Biomechanical Sculpture effect.
 
