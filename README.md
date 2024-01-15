@@ -21,7 +21,7 @@ we can turn it into the following:\
 ![Image](images/cutedino7.png)\
 This is achieved by first applying the Simpsons effect on the starting image to get this:
 ![Image](images/dino4.png)\
-then apply the Biomechanical Sculpture effect.
+then apply the Biomechanical Sculpture effect to get the final result.
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
