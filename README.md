@@ -8,7 +8,7 @@ More specifically, this tool offers the following benefits:
 
 - Easy to use. A user uplaods an image, select one of the serveral predefined styles/effects, and this tool will then proceed to re-imagine many aspects of the given image to create a new one. 
 - Produces creative results within the bounds of the given image. This tool first converts the given image to text (which removes many visual details), then recreates new visual details following the guidance of the text and the selected style.\
-\\
+<br/>
 Note that this tool is not intended for doing style transfer. For example, if you wish to convert your mugshot to have a certain particular style (e.g., cartoonized, impressionist, pencil drawing, etc.) while keeping face recognizable as you, then this tool is not for you.
 - Supports incremental refinement. For example, once you have the following image created with this tool:\
 ![Image](images/girl&flowers_paper%20collage.png)\
