@@ -2,22 +2,25 @@
 This tool performs transformation on a given image to a new one using multimodal LLMs. 
 
 ## Target audience
-This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts. More specifically, this tool offers the following benefits:
+This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts.
+\\
+More specifically, this tool offers the following benefits:
 
-- Easy to use. A user uplaods an image, select one of the serveral predefined stylees/effects, and this tool will then proceed to re-imagine many aspects of the given image to create a new one. 
-- Produces creative results within the bounds of the given image. This tool first converts the given image to text (which removes many visual details), then creates new visual details following the guidance of the text and the selected style.\
+- Easy to use. A user uplaods an image, select one of the serveral predefined styles/effects, and this tool will then proceed to re-imagine many aspects of the given image to create a new one. 
+- Produces creative results within the bounds of the given image. This tool first converts the given image to text (which removes many visual details), then recreates new visual details following the guidance of the text and the selected style.\
 \\
 Note that this tool is not intended for doing style transfer. For example, if you wish to convert your mugshot to have a certain particular style (e.g., cartoonized, impressionist, pencil drawing, etc.) while keeping face recognizable as you, then this tool is not for you.
-- Supports incremental refinement. For example, once you have the following image created:\
+- Supports incremental refinement. For example, once you have the following image created with this tool:\
 ![Image](images/girl&flowers_paper%20collage.png)\
 then if you enter additional text instruction "redo the image with calla lilies in the background", then you may get something similar to the following:\
 ![Image](images/girl&flowers_redo%20image%20with%20calla%20lilies%20in%20background.png)\
-It is worth noting that while many aspects of this image is different from the last one, such compsition, posture, details in clothing, etc., much of the general style and character features are preserved.
+It is worth noting that while many aspects of this image is different from the last one, such as compsition, posture, details in clothing, etc., much of the general style and character features are preserved.
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
 <br>Please note as of January 2024, OpenAI still requires that you must have a GPT Plus subscription in order to access any GPT in their store. 
 
+<!--
 ## How it works
 This Custom GPT uses a given image as the inspiration for creating a new image, with the following steps:
 
@@ -27,6 +30,7 @@ This Custom GPT uses a given image as the inspiration for creating a new image, 
 * The extractd text and the given style are combined and given to OpenAI's DALL-E to generate an image.
 
 This approach allows user to have control of the image generation process without having to learn prompt engineering, while still able to produce exciting images.
+-->
 
 ## Supported artistic styles
 * Paper collage
@@ -39,6 +43,8 @@ This approach allows user to have control of the image generation process withou
 * Milk sculpture
 
 ## Effects demonstration
+Each column below is a demo series to showcase the effects.
+
 <table style="border-collapse:unset;">
   <tr>
     <td>DEMO-1</td>
@@ -118,6 +124,8 @@ This approach allows user to have control of the image generation process withou
 </table>
 
 ## Gallery
+
+Each row below is a pair of images showcasing a number of interesting transformations achieved during our experimentation.
 
 <table>
   <tr>
