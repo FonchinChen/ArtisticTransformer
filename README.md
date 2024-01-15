@@ -125,7 +125,7 @@ Each column below is a demo series to showcase the effects.
 
 ## Gallery
 
-Each row below is a pair of images showcasing a number of interesting transformations achieved during our experimentation.
+Each row below is a pair of images showcasing interesting transformation achieved during our experimentation.
 
 <table>
   <tr>
