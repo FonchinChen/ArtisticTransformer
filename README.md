@@ -167,10 +167,10 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
-  <tr>
+  <!--tr>
     <td><img src="images/dino4.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/cutedino7.png" style="width:300px" alt=""><br>Transformed: Biomechanical sculpture</td>
-  </tr> 
+</tr--> 
   <tr>
     <td></td>
     <td></td>
