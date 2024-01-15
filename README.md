@@ -2,7 +2,7 @@
 This tool performs transformation on a given image to a new one using multimodal LLMs. 
 
 ## Target audience
-This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts.
+This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts.\
 \\
 More specifically, this tool offers the following benefits:
 
@@ -190,6 +190,10 @@ Each row below is a pair of images showcasing interesting transformation achieve
   </tr> 
 </table>
 
+<!--
 ## A note to Gen-AI practioners
 
-We believe that this
+We believe that beyond fun and creative pursue, this image-to-text-to-image approach can find useful technical applications in the realm of Gen-AI development.
+
+Let's say we have a multimodal LLM for converting image to text, 
+-->
