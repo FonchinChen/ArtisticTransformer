@@ -2,7 +2,7 @@
 This tool performs transformation on a given image to a new one using multimodal LLMs. 
 
 ## Target audience
-This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts.
+This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts. \
 <br/>
 More specifically, this tool offers the following benefits:
 
