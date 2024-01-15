@@ -11,7 +11,7 @@ Note that this tool is not intended for doing style transfer. For example, if yo
 - Supports incremental refinement. For example, once you have the following image created:\
 ![Image](images/girl&flowers_paper%20collage.png)\
 then if you enter additional text instruction "redo the image with calla lilies in the background", then you may get something similar to the following:\
-![Image](images/girl&flowers_redo image with calla lilies in background.png)\
+![Image](images/girl&flowers_redo%20image20with20calla20lilies20in20background.png)\
 It is worth noting that while many aspects of this image is different from the last one, such compsition, posture, details in clothing, etc., much of the general style and character features are preserved.
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
