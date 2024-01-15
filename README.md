@@ -1,5 +1,10 @@
 # Creative Imaginator
-Perform artistic transformation on a given image using multimodal LLMs
+This tool performs transformation on a given image to a new one using multimodal LLMs. A user uplaods an image, select one of the serveral predefined stylees/effects, and this tool will then proceed to re-imagine many aspects of the given image to create a new one. 
+
+## Target audience
+This tool is intended for those who are looking for an easy way to create DALL-E images, but don't want to be bothered with learning how to craft elaborate prompts. 
+
+This tool is not intended for doing style transfer. For example, if you wish to convert your mugshot to have a certain particular style (e.g., cartoonized, impressionist, pencil drawing) which keeping the result somewhat recognizable as representing you, then this tool is not for you. 
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
@@ -24,9 +29,6 @@ This approach allows user to have control of the image generation process withou
 * Glass sculpture
 * Biomechanical sculpture
 * Milk sculpture
-
-## What this is not
-This custom GPT is not meant for use as a beauty filter of style changer for human portraits, since the transformed face may not resemble the original.
 
 ## Effects demonstration
 <table style="border-collapse:unset;">
