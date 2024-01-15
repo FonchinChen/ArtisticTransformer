@@ -189,3 +189,7 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td><img src="images/girl6-5.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
   </tr> 
 </table>
+
+## A note to Gen-AI practioners
+
+We believe that this
