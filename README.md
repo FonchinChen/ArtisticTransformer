@@ -6,17 +6,13 @@ This tool is intended for those who are looking for an easy way to create DALL-E
 
 - Easy to use. A user uplaods an image, select one of the serveral predefined stylees/effects, and this tool will then proceed to re-imagine many aspects of the given image to create a new one. 
 - Produces creative results within the bounds of the given image. This tool first converts the given image to text (which removes many visual details), then creates new visual details following the guidance of the text and the selected style.\
-  \  
+<br/><br/>  
 Note that this tool is not intended for doing style transfer. For example, if you wish to convert your mugshot to have a certain particular style (e.g., cartoonized, impressionist, pencil drawing, etc.) while keeping face recognizable as you, then this tool is not for you.
 - Supports incremental refinement. For example, once you have the following image created:\
-![Image](images/girl&flowers_paper collage.png)\
+![Image](images/girl&flowers_paper%20collage.png)\
 then if you enter additional text instruction "redo the image with calla lilies in the background", then you may get something similar to the following:\
 ![Image](images/girl&flowers_redo image with calla lilies in background.png)\
 It is worth noting that while many aspects of this image is different from the last one, such compsition, posture, details in clothing, etc., much of the general style and character features are preserved.
-
-
-- 
-- 
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
