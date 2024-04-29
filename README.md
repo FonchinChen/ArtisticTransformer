@@ -61,6 +61,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td style="border-bottom:none;"><img src="images/dino0a.png" style="width:300px" alt="Original image"><br>Original Image</td>
     <td style="border-bottom:none;"><img src="images/fairy0a.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
@@ -69,6 +70,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="paper collage"><br>Paper collage</td>
     <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"><br>Paper collage</td>
@@ -77,6 +79,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime style"><br>Japanese anime</td>
     <td><img src="images/fairy2.png" style="width:300px" alt="Japanese anime style"><br>Japanese anime</td>
@@ -85,6 +88,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"><br>Pop art comics</td>
     <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"><br>Pop art comics</td>
@@ -93,6 +97,8 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
+  <tr>
     <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"><br>Simpsons</td>
     <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons"><br>Simpsons</td>
   </tr>
@@ -100,6 +106,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
     <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
@@ -108,25 +115,34 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
   </tr>
-
+    <tr>
+    <td></td>
+    <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
     <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/dino8.png" style="width:300px" alt="Milk sculpture"><br>Milk sculpture</td>
     <td><img src="images/fairy8.png" style="width:300px" alt="Milk sculpture"><br>Milk sculpture</td>
