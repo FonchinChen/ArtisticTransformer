@@ -112,10 +112,11 @@ Each column below is a demo series to showcase the effects.
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
   </tr>
-    <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
-    <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
+
   </tr>
   <tr>
+    <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
+    <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
     <td></td>
     <td></td>
   </tr>
