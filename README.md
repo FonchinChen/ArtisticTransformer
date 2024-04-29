@@ -40,13 +40,17 @@ This approach allows user to have control of the image generation process withou
 -->
 
 ## Supported artistic styles
-* Paper collage
-* Japanese anime
-* Pop art comic
-* Simpsons
-* Woodcut
-* Glass sculpture
+
+* Reimage (original style)
+* Illustration
+* Photograph
+* Oil painting
+* Japanese anime style
+* 3D animation style
+* Linocut
+* Paper diorama collage
 * Biomechanical sculpture
+* Glass sculpture
 * Milk sculpture
 
 ## Effects demonstration
