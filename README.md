@@ -76,14 +76,41 @@ Each column below is a demo series to showcase the effects.
   </tr>
   
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="paper collage"><br>Paper collage</td>
-    <td><img src="images/fairy1-5.png" style="width:300px" alt="paper collage"><br>Paper collage</td>
+    <td><img src="images/dino1.png" style="width:300px" alt="Reimage (original style)"><br>Reimage (original style)</td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="Reimage (original style)"><br>Reimage (original style)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
-  
+
+  <tr>
+    <td><img src="images/dino1.png" style="width:300px" alt="Illustration"><br>Illustration</td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="Illustration"><br>Illustration</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+    <tr>
+    <td><img src="images/dino1.png" style="width:300px" alt="Photograph"><br>Photograph</td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="Photograph"><br>Photograph</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+    <tr>
+    <td><img src="images/dino1.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+    
   <tr>
     <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime style"><br>Japanese anime</td>
     <td><img src="images/fairy2.png" style="width:300px" alt="Japanese anime style"><br>Japanese anime</td>
@@ -92,21 +119,30 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
+
+  <tr>
+    <td><img src="images/dino2_anime.png" style="width:300px" alt="J3D animation style"><br>3D animation style</td>
+    <td><img src="images/fairy2.png" style="width:300px" alt="3D animation style"><br>3D animation style</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
       
   <tr>
-    <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
-    <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
+    <td><img src="images/dino5.png" style="width:300px" alt="Linocut"><br>Linocut</td>
+    <td><img src="images/fairy5.png" style="width:300px" alt="Linocut"><br>Linocut</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
-  
+   
   <tr>
-    <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
-    <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
+    <td><img src="images/dino1.png" style="width:300px" alt="Paper diorama collage"><br>Paper diorama collage</td>
+    <td><img src="images/fairy1-5.png" style="width:300px" alt="Paper diorama collage"><br>Paper diorama collage</td>
   </tr>
-    <tr>
+  <tr>
     <td></td>
     <td></td>
   </tr>
