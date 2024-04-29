@@ -78,8 +78,8 @@ Each column below is a demo series to showcase the effects.
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime"><br>Japanese anime</td>
-    <td><img src="images/fairy2.png" style="width:300px" alt="Japanese anime"><br>Japanese anime</td>
+    <td><img src="images/dino2_anime.png" style="width:300px" alt="Japanese anime style"><br>Japanese anime</td>
+    <td><img src="images/fairy2.png" style="width:300px" alt="Japanese anime style"><br>Japanese anime</td>
   </tr>
   <tr>
     <td></td>
@@ -101,8 +101,8 @@ Each column below is a demo series to showcase the effects.
     <td></td>
   </tr>
   <tr>
-    <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"><br>Woodcut</td>
-    <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"><br>Woodcut</td>
+    <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
+    <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
   </tr>
   <tr>
     <td></td>
@@ -112,14 +112,16 @@ Each column below is a demo series to showcase the effects.
     <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
     <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
+    <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
   <tr>
     <td></td>
     <td></td>
