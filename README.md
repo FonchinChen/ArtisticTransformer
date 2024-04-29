@@ -93,7 +93,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
   </tr>
 
-    <tr>
+  <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="Photograph"><br>Photograph</td>
     <td><img src="images/fairy1-5.png" style="width:300px" alt="Photograph"><br>Photograph</td>
   </tr>
@@ -102,7 +102,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
   </tr>
 
-    <tr>
+  <tr>
     <td><img src="images/dino1.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
     <td><img src="images/fairy1-5.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
   </tr>
