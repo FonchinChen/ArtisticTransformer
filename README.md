@@ -88,25 +88,7 @@ Each column below is a demo series to showcase the effects.
     <td></td>
     <td></td>
   </tr>
-  
-  <tr>
-    <td><img src="images/dino3_popart.png" style="width:300px" alt="Pop art comics"><br>Pop art comics</td>
-    <td><img src="images/fairy3.png" style="width:300px" alt="Pop art comics"><br>Pop art comics</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td><img src="images/dino4.png" style="width:300px" alt="Simpsons"><br>Simpsons</td>
-    <td><img src="images/fairy4.png" style="width:300px" alt="Simpsons"><br>Simpsons</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  
+      
   <tr>
     <td><img src="images/dino5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
     <td><img src="images/fairy5.png" style="width:300px" alt="Woodcut"><br>Linocut</td>
