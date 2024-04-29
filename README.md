@@ -64,7 +64,7 @@ Each column below is a demo series to showcase the effects.
   
   <tr>
     <td style="border-bottom:none;"><img src="images/dino0a.png" style="width:300px" alt="Original image"><br>Original Image</td>
-    <td style="border-bottom:none;"><img src="images/fairy0a.jpeg" style="width:300px" alt="Original image"><br>Original Image</td>
+    <td style="border-bottom:none;"><img src="images/fairy0a.jpeg" style="width:300px" alt="Original image (Photo by Tú Nguyễn: https://www.pexels.com/photo/beautiful-fairy-in-white-dress-1545590/)"><br>Original Image</td>
   </tr>
   <tr>
     <td></td>
