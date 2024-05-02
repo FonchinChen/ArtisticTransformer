@@ -67,7 +67,7 @@ Each column below is a demo series to showcase the effects.
   </tr>
   
   <tr>
-    <td style="border-bottom:none;"><img src="images/dino0a.png" style="width:300px" alt="Original image"><br>Original Image</td>
+    <td style="border-bottom:none;"><img src="images/dino600_original.png" style="width:300px" alt="Original image"><br>Original Image</td>
     <td style="border-bottom:none;"><img src="images/fairy0a.jpeg" style="width:300px" alt="Original image by Tú Nguyễn"><br>Original Image by Tú Nguyễn</td>
   </tr>
   <tr>
@@ -76,8 +76,8 @@ Each column below is a demo series to showcase the effects.
   </tr>
   
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="Reimage (original style)"><br>Reimage (original style)</td>
-    <td><img src="images/fairy1-5.png" style="width:300px" alt="Reimage (original style)"><br>Reimage (original style)</td>
+    <td><img src="images/dino600_reimage.png" style="width:300px" alt="Reimage (original style)"><br>Reimage (original style)</td>
+    <td><img src="images/fairy600_reimage.png" style="width:300px" alt="Reimage (original style)"><br>Reimage (original style)</td>
   </tr>
   <tr>
     <td></td>
@@ -85,8 +85,8 @@ Each column below is a demo series to showcase the effects.
   </tr>
 
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="Illustration"><br>Illustration</td>
-    <td><img src="images/fairy1-5.png" style="width:300px" alt="Illustration"><br>Illustration</td>
+    <td><img src="images/dino600_illustration.png" style="width:300px" alt="Illustration"><br>Illustration</td>
+    <td><img src="images/fairy600_illustration.png" style="width:300px" alt="Illustration"><br>Illustration</td>
   </tr>
   <tr>
     <td></td>
@@ -94,8 +94,8 @@ Each column below is a demo series to showcase the effects.
   </tr>
 
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="Photograph"><br>Photograph</td>
-    <td><img src="images/fairy1-5.png" style="width:300px" alt="Photograph"><br>Photograph</td>
+    <td><img src="images/dino600_photo.png" style="width:300px" alt="Photograph"><br>Photograph</td>
+    <td><img src="images/fairy600_photo.png" style="width:300px" alt="Photograph"><br>Photograph</td>
   </tr>
   <tr>
     <td></td>
@@ -103,8 +103,8 @@ Each column below is a demo series to showcase the effects.
   </tr>
 
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
-    <td><img src="images/fairy1-5.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
+    <td><img src="images/dino600_oil.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
+    <td><img src="images/fairy600_oil.png" style="width:300px" alt="Oil painting"><br>Oil painting</td>
   </tr>
   <tr>
     <td></td>
@@ -121,8 +121,8 @@ Each column below is a demo series to showcase the effects.
   </tr>
 
   <tr>
-    <td><img src="images/dino2_anime.png" style="width:300px" alt="J3D animation style"><br>3D animation style</td>
-    <td><img src="images/fairy2.png" style="width:300px" alt="3D animation style"><br>3D animation style</td>
+    <td><img src="images/dino600_3d.png" style="width:300px" alt="J3D animation style"><br>3D animation style</td>
+    <td><img src="images/fairy600_3d.png" style="width:300px" alt="3D animation style"><br>3D animation style</td>
   </tr>
   <tr>
     <td></td>
@@ -130,7 +130,7 @@ Each column below is a demo series to showcase the effects.
   </tr>
       
   <tr>
-    <td><img src="images/dino5.png" style="width:300px" alt="Linocut"><br>Linocut</td>
+    <td><img src="images/dino600_linocut.png" style="width:300px" alt="Linocut"><br>Linocut</td>
     <td><img src="images/fairy5.png" style="width:300px" alt="Linocut"><br>Linocut</td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ Each column below is a demo series to showcase the effects.
   </tr>
    
   <tr>
-    <td><img src="images/dino1.png" style="width:300px" alt="Paper diorama collage"><br>Paper diorama collage</td>
+    <td><img src="images/dino600_paper.png" style="width:300px" alt="Paper diorama collage"><br>Paper diorama collage</td>
     <td><img src="images/fairy1-5.png" style="width:300px" alt="Paper diorama collage"><br>Paper diorama collage</td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ Each column below is a demo series to showcase the effects.
   
   <tr>
     <td><img src="images/dino7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
-    <td><img src="images/fairy7-2.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
+    <td><img src="images/fairy600_bio.png" style="width:300px" alt="Biomechanical sculpture"><br>Biomechanical sculpture</td>
   </tr>
   <tr>
     <td></td>
@@ -157,7 +157,7 @@ Each column below is a demo series to showcase the effects.
   </tr>
   
   <tr>
-    <td><img src="images/dino6-1.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
+    <td><img src="images/dino600_glass.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
     <td><img src="images/fairy6-3.png" style="width:300px" alt="Glass sculpture"><br>Glass sculpture</td>
   </tr>
   <tr>
