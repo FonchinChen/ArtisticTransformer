@@ -184,6 +184,7 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
+ 
   <tr>
     <td><img src="images/winter0a.jpg" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/winter8.png" style="width:300px" alt=""><br>Transformed: Milk sculpture</td>
@@ -192,6 +193,7 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/girl0a.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/girl6.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
@@ -200,6 +202,7 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/sunflower0a.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/sunflower6.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
@@ -208,14 +211,16 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
+  
   <!--tr>
     <td><img src="images/dino4.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/cutedino7.png" style="width:300px" alt=""><br>Transformed: Biomechanical sculpture</td>
-</tr--> 
-  <tr>
+</tr-->  
+  <!--tr>
     <td></td>
     <td></td>
-  </tr>
+  </tr-->
+ 
   <tr>
     <td><img src="images/cat0a.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/cat1.png" style="width:300px" alt=""><br>Transformed: Paper collage</td>
@@ -224,6 +229,7 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><img src="images/fish0a.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/fish6-5.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
@@ -232,6 +238,7 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
     <td></td>
   </tr>
+ 
   <tr>
     <td><img src="images/girl0a.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/girl6-5.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
