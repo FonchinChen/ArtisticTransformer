@@ -239,10 +239,10 @@ Each row below is a pair of images showcasing interesting transformation achieve
     <td></td>
   </tr>
  
-  <tr>
+ <!--tr>
     <td><img src="images/girl0a.png" style="width:300px" alt=""><br>Original Image</td>
     <td><img src="images/girl6-5.png" style="width:300px" alt=""><br>Transformed: Glass sculpture</td>
-  </tr> 
+  </tr--> 
 </table>
 
 <!--
