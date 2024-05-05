@@ -11,11 +11,11 @@ Key features of this tool include:
 
 Please note: This tool is not intended for style transfer, such as altering a personal photo to resemble a specific artistic style while maintaining recognition.
 - **Incremental Refinement:**. Users can refine their creations by adding text instructions like "include xxx in the background," preserving the overall style and character features.
-- **Style composition**. Easily combine multiple effects to achieve complex transformations. Apply one effect, then then re-apply another to achieve the desired outcome.
+- **Style composition**. Easily combine multiple effects to achieve complex transformations. Apply one effect, then re-apply another to achieve the desired outcome.
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
-<br>Please note as of January 2024, OpenAI still requires that you must have a GPT Plus subscription in order to access any GPT in their store. 
+<br>Please note as of January 2024, OpenAI still requires that you must have a GPT Plus subscription to access any GPT in their store. 
 
 <!--
 ## How it works
@@ -24,7 +24,7 @@ This Custom GPT uses a given image as the inspiration for creating a new image, 
 * User provides an image
 * A detailed textual description is extracted from the given image using OpenAI's multimodal GPT-4 model
 * User selects the desired effect/style from a given list
-* The extractd text and the given style are combined and given to OpenAI's DALL-E to generate an image.
+* The extracted text and the given style are combined and given to OpenAI's DALL-E to generate an image.
 
 This approach allows user to have control of the image generation process without having to learn prompt engineering, while still able to produce exciting images.
 -->
