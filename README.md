@@ -48,8 +48,8 @@ Each column below is a demo series to showcase the effects.
 
 <table style="border-collapse:unset;">
   <tr>
-    <td>DEMO-1</td>
-    <td>DEMO-2</td>
+    <td>DEMO 1</td>
+    <td>DEMO 2</td>
   </tr>
   <tr>
     <td></td>
