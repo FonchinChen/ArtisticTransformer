@@ -6,22 +6,12 @@ This tool is designed for those seeking a straightforward method to generate DAL
 <br/>
 Key features of this tool include:
 
-- **Easy to use**. Users simply upload an image and choose from a variety of predefined styles/effects. The tool then transforms many aspects of the original image to produce a new creation.\
-- **Creative Results:** By converting the image to text and following the selected style, the tool generates imaginative results while staying true to the original image.\
+- **Easy to use**. Users simply upload an image and choose from a variety of predefined styles/effects. The tool then transforms many aspects of the original image to produce a new creation.
+- **Creative Results:** By converting the image to text and following the selected style, the tool generates imaginative results while staying true to the original image.
 
-Please note: This tool is not intended for style transfer, such as altering a personal photo to resemble a specific artistic style while maintaining recognition.\
-- **Supports incremental refinement**. For example, once you have the following image created with this tool:\
-![Image](images/girl&flowers_paper%20collage.png)\
-then if you enter additional text instruction "redo the image with calla lilies in the background", then you may get something similar to the following:\
-![Image](images/girl&flowers_redo%20image%20with%20calla%20lilies%20in%20background.png)\
-It is worth noting that while many aspects of this image is different from the last one, such as compsition, posture, details in clothing, etc., much of the general style and character features are preserved.
-- **Style composition**. It is easy to combine multiple effects in order to achieve more complex transformation. For example, given the following start image:\
-![Image](images/dino0.png)\
-we can turn it into the following:\
-![Image](images/cutedino7.png)\
-This is achieved by first applying the Simpsons effect on the starting image to get this:
-![Image](images/dino4.png)\
-then apply the Biomechanical Sculpture effect to get the final result.
+Please note: This tool is not intended for style transfer, such as altering a personal photo to resemble a specific artistic style while maintaining recognition.
+- **Incremental Refinement:**. Users can refine their creations by adding text instructions like "include xxx in the background," preserving the overall style and character features.
+- **Style composition**. IEasily combine multiple effects to achieve complex transformations. Apply one effect, then then re-apply another to achieve the desired outcome.
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
