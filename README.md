@@ -10,11 +10,14 @@ Key features of this tool include:
 - **Creative Results:** By converting the image to text and following the selected style, the tool generates imaginative results while staying true to the original image.
 
 Please note: This tool is not intended for style transfer, such as altering a personal photo to resemble a specific artistic style while maintaining recognition.
-- **Incremental Refinement:**. Users can refine their creations by adding text instructions like "include xxx in the background," preserving the overall style and character features.
-- **Style composition**. Easily combine multiple effects to achieve complex transformations. Apply one effect, then re-apply another to achieve the desired outcome.
+- **Incremental Refinement:**. Users can refine their creations by adding text instructions like "include xxx in the background" to change part of the image while still preserving the overall style and character features.
+- **Style composition**. Easily combine multiple effects to achieve complex transformations. Apply one effect, then re-apply another to achieve the desired outcome. For example: the following image is a combination work of the "biomechanical sculpture" effect and the "glass sculpture" effect.
+ <p>
+    <img src="dino_glass.png" alt="effect demo" style="float: left">
+</p>
 
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
-Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting art works!
+Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting artwork!
 <br>Please note as of January 2024, OpenAI still requires that you must have a GPT Plus subscription to access any GPT in their store. 
 
 <!--
@@ -26,7 +29,7 @@ This Custom GPT uses a given image as the inspiration for creating a new image, 
 * User selects the desired effect/style from a given list
 * The extracted text and the given style are combined and given to OpenAI's DALL-E to generate an image.
 
-This approach allows user to have control of the image generation process without having to learn prompt engineering, while still able to produce exciting images.
+This approach allows users to have control of the image generation process without having to learn prompt engineering, while still able to produce exciting images.
 -->
 
 ## Supported artistic styles
@@ -163,7 +166,7 @@ Each column below is a demo series to showcase the effects.
 
 ## Gallery
 
-Each row below is a pair of images showcasing interesting transformation achieved during our experimentation.
+Each row below is a pair of images showcasing interesting transformations achieved during our experimentation.
 
 <table>
   <tr>
