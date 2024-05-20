@@ -13,7 +13,7 @@ Please note: This tool is not intended for style transfer, such as altering a pe
 - **Incremental Refinement:**. Users can refine their creations by adding text instructions like "include xxx in the background" to change part of the image while still preserving the overall style and character features.
 - **Style composition**. Easily combine multiple effects to achieve complex transformations. Apply one effect, then re-apply another to achieve the desired outcome. For example: the following image is a combination work of the "biomechanical sculpture" effect and the "glass sculpture" effect.
  <p>
-    <img src="images/cat0.png" alt="effect demo2" style="float: left"></img>
+    <img src="images/dino_mix.png" alt="effect demo2" style="float: left"></img>
 </p>
 ## Live demo using a [Custom GPT](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) in OpenAI's GPT Store
 Click on [this link](https://chat.openai.com/g/g-UpQkvuX7j-creative-imaginator) to open our custom GPT in your browser, and from there you will be able to upload your images and convert them to exciting artwork!
